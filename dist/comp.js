@@ -1,0 +1,2 @@
+(wx["webpackJsonp"] = wx["webpackJsonp"] || []).push([["comp"],[],[["./node_modules/_@tarojs_mini-runner@3.0.0-alpha.5@@tarojs/mini-runner/dist/template/comp.js","runtime","vendors"]]]);
+//# sourceMappingURL=comp.js.map

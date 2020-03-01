@@ -1,0 +1,16 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "taro-3.0",
+  "description": "taro-3.0",
+  "appid": "wx61d3a898bf020115",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram",
+  "simulatorType": "wechat",
+  "simulatorPluginLibVersion": {},
+  "condition": {}
+}
