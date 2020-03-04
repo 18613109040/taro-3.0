@@ -1,0 +1,9 @@
+.idea
+*.iml
+.DS_Store
+client/node_modules
+client/dist/
+client/dist
+mock
+client/src/pages/\.umi/
+cloud/functions/login/node_modules

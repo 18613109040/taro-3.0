@@ -1,0 +1,17 @@
+.list{
+  display: flex;
+  align-items: center;
+  font-size: 32px;
+  padding: 30px;
+  .title{
+    font-weight: 600;
+  }
+  .content{
+    flex: 1;
+    margin-left: 30px;
+  }
+  .icon{
+    text-align: right;
+    width: 100px;
+  }
+}
